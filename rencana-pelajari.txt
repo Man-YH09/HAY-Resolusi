@@ -6,3 +6,4 @@ LIST PELAJARI :
 (Apa itu google Sheet dan apa bedanya dengan MS Excel?)
 - Zapier
 - make.com
+- bahasa Pemrograman sejuta umat
