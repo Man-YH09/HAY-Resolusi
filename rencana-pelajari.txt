@@ -3,6 +3,7 @@ LIST PELAJARI :
 - Wordpress
 (Pelajari apa sih itu wordpress? apa bedanya dengan membangun WEB konvensional? apakah Wordpress memang low code program??)
   ^cara kerja Wordpress^
+  ^Build wordpress sederhana^
 - Google Sheets
 (Apa itu google Sheet dan apa bedanya dengan MS Excel?)
 - Zapier
