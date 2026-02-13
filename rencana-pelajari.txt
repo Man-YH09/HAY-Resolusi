@@ -2,8 +2,10 @@ LIST PELAJARI :
 
 - Wordpress
 (Pelajari apa sih itu wordpress? apa bedanya dengan membangun WEB konvensional? apakah Wordpress memang low code program??)
+  ^cara kerja Wordpress^
 - Google Sheets
 (Apa itu google Sheet dan apa bedanya dengan MS Excel?)
 - Zapier
 - make.com
 - bahasa Pemrograman sejuta umat
+  ^Python vs C++^
